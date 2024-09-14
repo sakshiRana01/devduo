@@ -1,0 +1,15 @@
+.common-btn{
+    padding: 10px 20px;
+    margin: 0;
+    border: none;
+    background-color: #66478D;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 20px;
+    transition: all 0.1s ease-in;
+
+}
+.common-btn:hover{
+    transform:skewY(20deg);
+}
